@@ -1,0 +1,6 @@
+D:\845038\csharp\CalciCalculation\CalciCalculation\bin\Debug\CalciCalculation.dll
+D:\845038\csharp\CalciCalculation\CalciCalculation\bin\Debug\CalciCalculation.pdb
+D:\845038\csharp\CalciCalculation\CalciCalculation\obj\Debug\CalciCalculation.csprojResolveAssemblyReference.cache
+D:\845038\csharp\CalciCalculation\CalciCalculation\obj\Debug\CalciCalculation.csproj.CoreCompileInputs.cache
+D:\845038\csharp\CalciCalculation\CalciCalculation\obj\Debug\CalciCalculation.dll
+D:\845038\csharp\CalciCalculation\CalciCalculation\obj\Debug\CalciCalculation.pdb

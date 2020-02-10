@@ -1,0 +1,7 @@
+D:\845038\ADO.net\Sample\Sample\bin\Debug\Sample.exe.config
+D:\845038\ADO.net\Sample\Sample\bin\Debug\Sample.exe
+D:\845038\ADO.net\Sample\Sample\bin\Debug\Sample.pdb
+D:\845038\ADO.net\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+D:\845038\ADO.net\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+D:\845038\ADO.net\Sample\Sample\obj\Debug\Sample.exe
+D:\845038\ADO.net\Sample\Sample\obj\Debug\Sample.pdb

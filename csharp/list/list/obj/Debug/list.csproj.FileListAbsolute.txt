@@ -1,0 +1,7 @@
+D:\845038\csharp\list\list\bin\Debug\list.exe.config
+D:\845038\csharp\list\list\bin\Debug\list.exe
+D:\845038\csharp\list\list\bin\Debug\list.pdb
+D:\845038\csharp\list\list\obj\Debug\list.csprojResolveAssemblyReference.cache
+D:\845038\csharp\list\list\obj\Debug\list.csproj.CoreCompileInputs.cache
+D:\845038\csharp\list\list\obj\Debug\list.exe
+D:\845038\csharp\list\list\obj\Debug\list.pdb

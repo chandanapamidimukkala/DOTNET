@@ -1,0 +1,9 @@
+D:\845038\csharp\ConsoleAppUsingCalciLibrary\ConsoleAppUsingCalciLibrary\bin\Debug\ConsoleAppUsingCalciLibrary.exe.config
+D:\845038\csharp\ConsoleAppUsingCalciLibrary\ConsoleAppUsingCalciLibrary\bin\Debug\ConsoleAppUsingCalciLibrary.exe
+D:\845038\csharp\ConsoleAppUsingCalciLibrary\ConsoleAppUsingCalciLibrary\bin\Debug\ConsoleAppUsingCalciLibrary.pdb
+D:\845038\csharp\ConsoleAppUsingCalciLibrary\ConsoleAppUsingCalciLibrary\bin\Debug\CalciCalculation.dll
+D:\845038\csharp\ConsoleAppUsingCalciLibrary\ConsoleAppUsingCalciLibrary\bin\Debug\CalciCalculation.pdb
+D:\845038\csharp\ConsoleAppUsingCalciLibrary\ConsoleAppUsingCalciLibrary\obj\Debug\ConsoleAppUsingCalciLibrary.csprojResolveAssemblyReference.cache
+D:\845038\csharp\ConsoleAppUsingCalciLibrary\ConsoleAppUsingCalciLibrary\obj\Debug\ConsoleAppUsingCalciLibrary.csproj.CoreCompileInputs.cache
+D:\845038\csharp\ConsoleAppUsingCalciLibrary\ConsoleAppUsingCalciLibrary\obj\Debug\ConsoleAppUsingCalciLibrary.exe
+D:\845038\csharp\ConsoleAppUsingCalciLibrary\ConsoleAppUsingCalciLibrary\obj\Debug\ConsoleAppUsingCalciLibrary.pdb

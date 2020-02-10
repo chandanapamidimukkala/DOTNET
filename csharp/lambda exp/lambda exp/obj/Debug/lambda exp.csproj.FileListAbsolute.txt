@@ -1,0 +1,7 @@
+D:\845038\csharp\lambda exp\lambda exp\bin\Debug\lambda exp.exe.config
+D:\845038\csharp\lambda exp\lambda exp\bin\Debug\lambda exp.exe
+D:\845038\csharp\lambda exp\lambda exp\bin\Debug\lambda exp.pdb
+D:\845038\csharp\lambda exp\lambda exp\obj\Debug\lambda exp.csprojResolveAssemblyReference.cache
+D:\845038\csharp\lambda exp\lambda exp\obj\Debug\lambda exp.csproj.CoreCompileInputs.cache
+D:\845038\csharp\lambda exp\lambda exp\obj\Debug\lambda exp.exe
+D:\845038\csharp\lambda exp\lambda exp\obj\Debug\lambda exp.pdb

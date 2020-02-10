@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<title>My Registration</title>
+</head>
+<body bgcolor="#a9a9a9">
+<h2  align="center">Registration</h2>
+<table align="center">
+<form name="Myform" action="submit.html" method="POST">
+<tr><th>
+ <label for="uname"><b>Name:</b></label>
+  	<input type="text" name="firstname" placeholder="firstname"></th>
+  	<th><input type="text" name="middlename" placeholder="middlename"></th>
+ 	 <th><input type="text" name="lastname" placeholder="lastname"><br></th></tr>
+<tr><th><label for="dob"><b>Dateofbirth:</b></label>
+	<input type="date" id="start" name="trip-start"
+       value="2018-07-22"
+       min="2018-01-01" max="2018-12-31"><br></th></tr>
+ 
+<tr><th><label for="gender"><b>Gender:</b></label>
+	<input type="radio" name="gender" value="male" checked> Male
+  	  <input type="radio" name="gender" value="female"> Female<br></th></tr>
+ <tr><th><label for="phone"><b>Contact no:</b></label>
+	<input type="tel" id="phone" name="phone"><br></th></tr>
+<tr><th><label for="email"><b>Email:</b></label>
+   	<input type="text" name="email"><br></th></tr>
+<tr><th><label for="psw"><b>Password:</b></label>
+   	<input type="password" name="password"><br></th></tr>
+<tr><th><label for="adr"><b>Address:</b></label>
+	<textarea rows="4" cols="15"></textarea><br></th></tr>
+<tr><th><label for="sports"><b>Sports:</b></label>
+  <select name="sports">
+  <option value="swimming">swimming</option>
+  <option value="volleyball">volleyball</option>
+  <option value="football">football</option>
+  <option value="badminton">badminton</option>
+  </select></th></tr>
+
+  <tr><th><button type="submit" class="btn">Submit</button>
+          <button type="cancel" class="btn">Reset</button></th></tr>
+
+</table>
+
+</form>
+
+</body>
+</html

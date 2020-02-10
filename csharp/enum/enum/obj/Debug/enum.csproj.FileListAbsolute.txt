@@ -1,0 +1,7 @@
+D:\845038\csharp\enum\enum\bin\Debug\@enum.exe.config
+D:\845038\csharp\enum\enum\bin\Debug\@enum.exe
+D:\845038\csharp\enum\enum\bin\Debug\@enum.pdb
+D:\845038\csharp\enum\enum\obj\Debug\enum.csprojResolveAssemblyReference.cache
+D:\845038\csharp\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+D:\845038\csharp\enum\enum\obj\Debug\@enum.exe
+D:\845038\csharp\enum\enum\obj\Debug\@enum.pdb

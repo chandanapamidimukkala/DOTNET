@@ -1,0 +1,7 @@
+D:\845038\csharp\function\function\bin\Debug\function.exe.config
+D:\845038\csharp\function\function\bin\Debug\function.exe
+D:\845038\csharp\function\function\bin\Debug\function.pdb
+D:\845038\csharp\function\function\obj\Debug\function.csprojResolveAssemblyReference.cache
+D:\845038\csharp\function\function\obj\Debug\function.csproj.CoreCompileInputs.cache
+D:\845038\csharp\function\function\obj\Debug\function.exe
+D:\845038\csharp\function\function\obj\Debug\function.pdb

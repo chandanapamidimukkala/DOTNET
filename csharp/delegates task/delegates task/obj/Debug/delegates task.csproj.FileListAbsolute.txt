@@ -1,0 +1,7 @@
+D:\845038\csharp\delegates task\delegates task\bin\Debug\delegates task.exe.config
+D:\845038\csharp\delegates task\delegates task\bin\Debug\delegates task.exe
+D:\845038\csharp\delegates task\delegates task\bin\Debug\delegates task.pdb
+D:\845038\csharp\delegates task\delegates task\obj\Debug\delegates task.csprojResolveAssemblyReference.cache
+D:\845038\csharp\delegates task\delegates task\obj\Debug\delegates task.csproj.CoreCompileInputs.cache
+D:\845038\csharp\delegates task\delegates task\obj\Debug\delegates task.exe
+D:\845038\csharp\delegates task\delegates task\obj\Debug\delegates task.pdb

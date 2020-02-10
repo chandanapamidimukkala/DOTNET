@@ -1,0 +1,7 @@
+D:\845038\ADO.net\SQLtoVs\SQLtoVs\bin\Debug\SQLtoVs.exe.config
+D:\845038\ADO.net\SQLtoVs\SQLtoVs\bin\Debug\SQLtoVs.exe
+D:\845038\ADO.net\SQLtoVs\SQLtoVs\bin\Debug\SQLtoVs.pdb
+D:\845038\ADO.net\SQLtoVs\SQLtoVs\obj\Debug\SQLtoVs.csprojResolveAssemblyReference.cache
+D:\845038\ADO.net\SQLtoVs\SQLtoVs\obj\Debug\SQLtoVs.csproj.CoreCompileInputs.cache
+D:\845038\ADO.net\SQLtoVs\SQLtoVs\obj\Debug\SQLtoVs.exe
+D:\845038\ADO.net\SQLtoVs\SQLtoVs\obj\Debug\SQLtoVs.pdb

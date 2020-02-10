@@ -1,0 +1,7 @@
+D:\845038\csharp\interface task\interface task\bin\Debug\interface task.exe.config
+D:\845038\csharp\interface task\interface task\bin\Debug\interface task.exe
+D:\845038\csharp\interface task\interface task\bin\Debug\interface task.pdb
+D:\845038\csharp\interface task\interface task\obj\Debug\interface task.csprojResolveAssemblyReference.cache
+D:\845038\csharp\interface task\interface task\obj\Debug\interface task.csproj.CoreCompileInputs.cache
+D:\845038\csharp\interface task\interface task\obj\Debug\interface task.exe
+D:\845038\csharp\interface task\interface task\obj\Debug\interface task.pdb

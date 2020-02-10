@@ -1,0 +1,7 @@
+D:\845038\csharp\fact\fact\obj\Debug\fact.csproj.CoreCompileInputs.cache
+D:\845038\csharp\fact\fact\obj\Debug\fact.csprojResolveAssemblyReference.cache
+D:\845038\csharp\fact\fact\bin\Debug\fact.exe.config
+D:\845038\csharp\fact\fact\bin\Debug\fact.exe
+D:\845038\csharp\fact\fact\bin\Debug\fact.pdb
+D:\845038\csharp\fact\fact\obj\Debug\fact.exe
+D:\845038\csharp\fact\fact\obj\Debug\fact.pdb

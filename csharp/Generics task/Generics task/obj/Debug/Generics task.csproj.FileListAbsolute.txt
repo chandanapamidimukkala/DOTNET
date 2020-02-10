@@ -1,0 +1,7 @@
+D:\845038\csharp\Generics task\Generics task\obj\Debug\Generics task.csprojResolveAssemblyReference.cache
+D:\845038\csharp\Generics task\Generics task\obj\Debug\Generics task.csproj.CoreCompileInputs.cache
+D:\845038\csharp\Generics task\Generics task\bin\Debug\Generics task.exe.config
+D:\845038\csharp\Generics task\Generics task\bin\Debug\Generics task.exe
+D:\845038\csharp\Generics task\Generics task\bin\Debug\Generics task.pdb
+D:\845038\csharp\Generics task\Generics task\obj\Debug\Generics task.exe
+D:\845038\csharp\Generics task\Generics task\obj\Debug\Generics task.pdb

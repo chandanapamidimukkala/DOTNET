@@ -1,0 +1,7 @@
+D:\845038\csharp\static task\static task\bin\Debug\static task.exe.config
+D:\845038\csharp\static task\static task\bin\Debug\static task.exe
+D:\845038\csharp\static task\static task\bin\Debug\static task.pdb
+D:\845038\csharp\static task\static task\obj\Debug\static task.csprojResolveAssemblyReference.cache
+D:\845038\csharp\static task\static task\obj\Debug\static task.csproj.CoreCompileInputs.cache
+D:\845038\csharp\static task\static task\obj\Debug\static task.exe
+D:\845038\csharp\static task\static task\obj\Debug\static task.pdb

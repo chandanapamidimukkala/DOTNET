@@ -1,0 +1,7 @@
+D:\845038\csharp\properties\OopsDemos\OopsDemos\bin\Debug\OopsDemos.exe.config
+D:\845038\csharp\properties\OopsDemos\OopsDemos\bin\Debug\OopsDemos.exe
+D:\845038\csharp\properties\OopsDemos\OopsDemos\bin\Debug\OopsDemos.pdb
+D:\845038\csharp\properties\OopsDemos\OopsDemos\obj\Debug\OopsDemos.csprojResolveAssemblyReference.cache
+D:\845038\csharp\properties\OopsDemos\OopsDemos\obj\Debug\OopsDemos.csproj.CoreCompileInputs.cache
+D:\845038\csharp\properties\OopsDemos\OopsDemos\obj\Debug\OopsDemos.exe
+D:\845038\csharp\properties\OopsDemos\OopsDemos\obj\Debug\OopsDemos.pdb
